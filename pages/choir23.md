@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CP Choir and Friends Party - Jan 27, 2023
+title: CP Choir /& Friends Party - 1/27/23
 meta_description: |
   2023 choir party information 
   output in the browser or in the generated file _site/about.html.
