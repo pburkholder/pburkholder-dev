@@ -1,15 +1,33 @@
 ---
 layout: page
-title: CP Choir /& Friends Party - 1/27/23
+title: Worthy is the choir...
 meta_description: |
   2023 choir party information 
 permalink: /party
 section: about
 ---
 
+
+> Worthy is the choir  
+> That hath sung  
+> At K. C.  
+> And again,  
+> Again, in January  
+
+> To receive wassail  
+> and chips  
+> and salsa  
+> and games  
+> and laughter  
+> and singing  
+> and blessing.  
+
+
 ### What
 
-Choir and friends party: Drinks, snacks, karaoke (maybe), firepit (weather permitting), games, and 
+Choir and friends party! 
+
+Drinks, snacks, karaoke (maybe), firepit (weather permitting), games, and 
 **great company**!
 
 ### When and where
