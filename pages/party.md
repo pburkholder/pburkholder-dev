@@ -12,7 +12,7 @@ section: about
 > That hath sung  
 > At K. C.  
 > And again,  
-> Again, in January  
+> Again, in January.  
 
 > To receive wassail  
 > and chips  
@@ -25,9 +25,11 @@ section: about
 
 ### What
 
-Choir and friends party! 
+Choir and friends party! Between the Messiah and our winter concert, we 
+have a lot to celebrate, and it's been a long time since we've had a chance
+to. 
 
-Drinks, snacks, karaoke (maybe), firepit (weather permitting), games, and 
+Join us for drinks, snacks, karaoke (maybe), firepit (weather permitting), games, and 
 **great company**!
 
 ### When and where
@@ -45,3 +47,6 @@ Peter's phone: 301-204-5767
 <script 
 type="text/javascript"> var zvmbipn10wz6d0; (function(d, t) { var s = d.createElement(t), options = { 'userName':'pburkholder', 'formHash':'zvmbipn10wz6d0', 'autoResize':true, 'height':'456', 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { zvmbipn10wz6d0 = new WufooForm(); zvmbipn10wz6d0.initialize(options); zvmbipn10wz6d0.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); 
 </script>
+
+---
+![Handel at a party](https://api.wbez.org/v2/images/7707bc72-42ba-40d4-ae7b-7cbf1ffe4461.jpg?width=1600&height=0&mode=ASPECT_WIDTH)
