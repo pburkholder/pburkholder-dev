@@ -3,22 +3,20 @@ layout: page
 title: CP Choir /& Friends Party - 1/27/23
 meta_description: |
   2023 choir party information 
-  output in the browser or in the generated file _site/about.html.
 permalink: /party
 section: about
-#intro_paragraph: |
-#  C
 ---
 
 ### What
 
-Choir and friends party: Drinks, snacks, karaoke (maybe), firepit (weather permitting), games, and great company!
+Choir and friends party: Drinks, snacks, karaoke (maybe), firepit (weather permitting), games, and 
+**great company**!
 
 ### When and where
 
 Friday, Jan 27, 2023, 7:30 pm until late
 
-Peter and Shannen's place, 7101 Bridle Path Lane, Hyattsville, MD 20278
+Peter and Shannen's place, 7101 Bridle Path Lane, Hyattsville, MD 20782
 
 Peter's phone: 301-204-5767
 
