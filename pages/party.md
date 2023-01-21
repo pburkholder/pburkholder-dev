@@ -8,7 +8,7 @@ section: about
 ---
 
 ![Handel at a party](https://api.wbez.org/v2/images/7707bc72-42ba-40d4-ae7b-7cbf1ffe4461.jpg?width=400&height=0&mode=ASPECT_WIDTH)<br>
-_Handel at a yacht party_
+_Handel with King George on the party yacht (Edouard Hamman)_
 
 > Worthy is the choir  
 > That hath sung  
