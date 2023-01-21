@@ -7,13 +7,15 @@ permalink: /party
 section: about
 ---
 
+![Handel at a party](https://api.wbez.org/v2/images/7707bc72-42ba-40d4-ae7b-7cbf1ffe4461.jpg?width=400&height=0&mode=ASPECT_WIDTH)<br>
+_Handel at a yacht party_
 
 > Worthy is the choir  
 > That hath sung  
 > At K. C.  
 > And again,  
 > Again, in January.  
-
+>
 > To receive wassail  
 > and chips  
 > and salsa  
@@ -29,8 +31,9 @@ Choir and friends party! Between the Messiah and our winter concert, we
 have a lot to celebrate, and it's been a long time since we've had a chance
 to. 
 
-Join us for drinks, snacks, karaoke (maybe), firepit (weather permitting), games, and 
-**great company**!
+Join us for drinks, snacks, basement karaoke (if folks are game for it), firepit (weather permitting), games, and **great company**!
+
+We'll provide snacks, punch (with booze) and non-alcoholic beverages. If you want to bring other snacks or beer, wine, etc., be our guest. 
 
 ### When and where
 
@@ -49,4 +52,3 @@ type="text/javascript"> var zvmbipn10wz6d0; (function(d, t) { var s = d.createEl
 </script>
 
 ---
-![Handel at a party](https://api.wbez.org/v2/images/7707bc72-42ba-40d4-ae7b-7cbf1ffe4461.jpg?width=1600&height=0&mode=ASPECT_WIDTH)
