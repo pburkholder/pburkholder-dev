@@ -43,12 +43,46 @@ Peter and Shannen's place, 7101 Bridle Path Lane, Hyattsville, MD 20782
 
 Peter's phone: 301-204-5767
 
-### RSVP
+### Karaoke song list
 
-<div id="wufoo-zvmbipn10wz6d0"> Fill out my <a href="https://pburkholder.wufoo.com/forms/zvmbipn10wz6d0">online form</a>. 
-</div>
-<script 
-type="text/javascript"> var zvmbipn10wz6d0; (function(d, t) { var s = d.createElement(t), options = { 'userName':'pburkholder', 'formHash':'zvmbipn10wz6d0', 'autoResize':true, 'height':'456', 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { zvmbipn10wz6d0 = new WufooForm(); zvmbipn10wz6d0.initialize(options); zvmbipn10wz6d0.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); 
-</script>
+Istanbul (not Constantinople)<br>
+Birdhouse in your soul<br>
+Doctor Worm<br>
+Daydream Believer<br>
+I’m a Believer<br>
+Total Eclipse of the Heart<br>
+Rude<br>
+Teach Your Children<br>
+The Gambler<br>
+Kodachrome<br>
+Girls Just Want to Have Fun<br>
+Margaritaville<br>
+You’ll Never Find Another Love Like Mine<br>
+All Night Long<br>
+Faith<br>
+Piece of my Heart<br>
+Karma Chameleon<br>
+Me and Julio Down by the Schoolyard<br>
+House of the Rising Sun<br>
+Ojala Que Llueva Cafe<br>
+Folsom Prison Blues<br>
+Chain of Fools<br>
+Burbujas De Amor<br>
+Closer to Fine<br>
+Stand By Me<br>
+My Way<br>
+Unchained Melody<br>
+Born to Run<br>
+Don’t Let the Sun Go Down On Me<br>
+In the Midnight Hour<br>
+Don’t Stop Believing<br>
+The Galaxy Song<br>
+I will Survive<br>
+Milck - Quiet<br>
+Sex & Drugs & Rock & Roll<br>
+Goodnight Irene<br>
+<br>
+
+
 
 ---
